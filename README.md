@@ -1,1 +1,1 @@
-# data_suitability-for-agriculture
+Download and clean [the Suitability for Agriculture dataset](https://nelson.wisc.edu/sage/data-and-models/atlas/maps.php?datasetid=19&includerelatedlinks=1&dataset=19) by [Ramankutty, Foley, Norman, and McSweeney (2002)](https://doi.org/10.1046/j.1466-822x.2002.00294.x)
